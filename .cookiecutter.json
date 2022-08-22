@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/azureuser",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Maciej Sk\u00f3rski",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "maciej.skorski@gmail.com",
+  "friendly_name": "EyeLink Parser",
+  "github_user": "maciejskorski",
+  "license": "GPL-3.0",
+  "package_name": "eyelinkparser",
+  "project_name": "eyelinkparser",
+  "version": "0.0.1"
+}
