@@ -2,11 +2,12 @@
 project = "EyeLink Parser"
 author = "Maciej Skórski"
 copyright = "2022, Maciej Skórski"
+
 extensions = [
-    "sphinx.ext.autodoc",
-    "sphinx.ext.napoleon",
-    "sphinx_click",
-    "myst_parser",
+    #"sphinx.ext.autodoc",
+    #"sphinx.ext.napoleon",
+    #"sphinx_click",
+    #"myst_parser",
+    "myst_nb",
 ]
-autodoc_typehints = "description"
-html_theme = "furo"
+html_theme = "sphinx_rtd_theme"
